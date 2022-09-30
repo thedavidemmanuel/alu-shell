@@ -1,1 +1,1 @@
-My shell redirection project
+#!/bin/bash
