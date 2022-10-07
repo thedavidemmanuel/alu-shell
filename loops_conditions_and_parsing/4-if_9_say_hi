@@ -3,8 +3,6 @@
 #displays bad luck for the 4th loop iteration
 #displays good luck for the 8th loop iteration
 #displays Best School for the other iteration
-#!/usr/bin/env bash
-#Print using while and if
 i=1
 
 while [ "$i" -lt 11 ]; do

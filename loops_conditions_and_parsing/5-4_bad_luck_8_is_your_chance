@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
-#Change the 4th, 8th loop iterations
-
+#a Bash script that loops from 1 to 10 and:
+#displays bad luck for the 4th loop iteration
+#displays good luck for the 8th loop iteration
+#displays Best School for the other iterations
 ((n=1))
 while [ $n -le 10 ]; do
 
@@ -17,9 +19,3 @@ else
 fi
 	((n++))
 done
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Sec
